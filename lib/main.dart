@@ -121,7 +121,7 @@ class _MyHomePageState extends State<MyHomePage> {
     'yt1s_nijLeKo.mp3',
   ];
   final BannerAd myBanner = BannerAd(
-    adUnitId: 'ca-app-pub-3940256099942544/6300978111',
+    adUnitId: 'redacted',
     size: AdSize.banner,
     request: const AdRequest(),
     listener: const BannerAdListener(),
